@@ -1,0 +1,22 @@
+{
+    "publisher": "JohannesFreutel",
+    "name": "ncl5c",
+    "displayName": "ncl5c",
+    "description": "",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.87.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+        {
+            "label": "ncl5c",
+            "uiTheme": "vs-dark",
+            "path": "./themes/ncl5c-color-theme.json"
+        }
+        ]
+    }
+}
