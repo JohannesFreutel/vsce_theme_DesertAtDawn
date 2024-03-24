@@ -1,4 +1,4 @@
-// dark
+// dark 
 {
 	"name": "ncl5c",
 	"type": "dark",
@@ -1935,7 +1935,7 @@
 		"scope": "comment, punctuation.definition.comment",
 		"settings": {
 		  "fontStyle": "italic",
-		  "foreground": "#2f2415"
+		  "foreground": "#3e323a"
 		}
 	  },
 	  {
