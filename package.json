@@ -3,7 +3,7 @@
     "name": "ncl5c",
     "displayName": "ncl5c",
     "description": "",
-    "version": "1.0.0",
+    "version": "4.0.0",
     "engines": {
         "vscode": "^1.87.0"
     },
