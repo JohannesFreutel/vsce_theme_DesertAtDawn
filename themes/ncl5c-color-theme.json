@@ -697,7 +697,7 @@
 		"name": "Keyword Control",
 		"scope": "keyword.control.flow.tsx",
 		"settings": {
-		  "foreground":"#b4a479"//"#fdafaf"
+		  "foreground":"#682e46"//"#fdafaf"
 		}
 	  },
       {
@@ -2236,7 +2236,7 @@
 	  "minimap.warningHighlight": "#b7ac93",
 	  "minimap.background": "#0084ff00",
 	  "sideBar.dropBackground": "#383b3d",
-	  "editorGroup.emptyBackground": "#00010f",
+	  "editorGroup.emptyBackground": "#0e0d13",
 	  "panelSection.border": "#80808059",
 	  "statusBarItem.activeBackground": "#FFFFFF25",
 	  "settings.headerForeground": "#343a40",
