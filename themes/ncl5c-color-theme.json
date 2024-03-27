@@ -2031,7 +2031,7 @@
 	  "statusBarItem.hoverBackground": "#07070c",
 	  "statusBar.debuggingBackground": "#07070c",
 	  "statusBar.debuggingForeground": "#252424",
-	  "statusBar.noFolderBackground": "#14181700",
+	  "statusBar.noFolderBackground": "#07070c",
 	  "statusBar.noFolderForeground": "#252424",
 	  "statusBarItem.remoteBackground": "#07070c",
 	  "statusBarItem.remoteForeground": "#252424",
